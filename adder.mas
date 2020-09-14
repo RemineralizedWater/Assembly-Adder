@@ -1,4 +1,4 @@
-/ adder.mas by Michael Rowe 26101267
+/ adder.mas
 
 / This program takes input of two numbers from a user, adds them together
 / and displays the sum. Each number is stored in a variable.
